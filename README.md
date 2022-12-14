@@ -22,7 +22,11 @@ Demonstrates from BASIC:
 
 See a demo below
 
+<a href="https://www.youtube.com/embed/yxx2xzdkjWg"><img src="clip.png" alt="Link to Youtube Demo" /></a>
+
+<div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yxx2xzdkjWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## LICENSE
 

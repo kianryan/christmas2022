@@ -1,5 +1,6 @@
 10 REM Merry Christmas RC2014
 20 REM rc2014-ym2149 and ZX True Tone
+25 REM Pi Zero Serial Terminal
 
 30 REM Clear Background
 40 PRINT CHR$(27);"[48;5;018m" : REM Background Dark Blue
